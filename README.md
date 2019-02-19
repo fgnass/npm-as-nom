@@ -1,4 +1,4 @@
-# Nom, Package Monster 🍪
+# Nom, Package Monster
 
 Does the following look familiar to you?
 
@@ -7,7 +7,7 @@ Does the following look familiar to you?
 command not found: nom
 ```
 
-Say no more! Run `npm i -g npm-as-nom` and get the full [cookie monster experience](https://youtu.be/_OKGUAbpj5k) instead. OM NOM NOM!
+Say no more! Run `npm i -g npm-as-nom` and get the full [cookie monster experience](https://youtu.be/_OKGUAbpj5k) instead. 🍪 COOKIE!! OM NOM NOM.
 
 # What users say
 
