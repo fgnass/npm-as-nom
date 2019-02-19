@@ -1,0 +1,16 @@
+{
+  "name": "npm-as-nom",
+  "version": "0.0.1",
+  "description": "Wrapper around npm that screams COOKIE!! every time you make this typo.",
+  "bin": {
+    "nom": "./nom.js"
+  },
+  "keywords": [
+    "npm",
+    "alias",
+    "nom",
+    "typo"
+  ],
+  "author": "",
+  "license": "MIT"
+}
