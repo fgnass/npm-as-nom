@@ -9,6 +9,8 @@ command not found: nom
 
 Say no more! Install `npm-as-nom` and get the full [cookie monster experience](https://youtu.be/_OKGUAbpj5k) instead. 🍪 COOKIE!! OM NOM NOM.
 
+![Cookie Monster](cookie.gif)
+
 # Installation
 
 ```
