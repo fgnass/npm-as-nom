@@ -1,6 +1,6 @@
 {
   "name": "npm-as-nom",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Wrapper around npm that screams COOKIE!! every time you make this typo.",
   "author": "Felix Gnass <fgnass@gmail.com>",
   "repository": "fgnass/npm-as-nom",
